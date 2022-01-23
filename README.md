@@ -20,4 +20,4 @@ See [`SETUP.md`](SETUP.md) for more information on setting up CircuitVerse.
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information on contributing to CircuitVerse.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)..
